@@ -1,4 +1,4 @@
-# Portfolio Copy — AI Website Chatbot
+# AI Website Chatbot
 
 ## Project title (pick one)
 - AI Customer-Service Chatbot for Small Business Websites
