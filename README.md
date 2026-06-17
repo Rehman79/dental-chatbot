@@ -1,6 +1,6 @@
 # AI Website Chatbot
 
-## Project title (pick one)
+## Project title
 - AI Customer-Service Chatbot for Small Business Websites
 ## Short description
 A live, GPT-powered chat widget that answers customer questions instantly —
@@ -22,7 +22,7 @@ Clients get a clean, modern chat experience with suggested questions, typing
 indicators, and instant replies — and it's deployed live, so you can talk to it
 right now rather than just looking at a screenshot.
 
-**Try the live demo:** [your-vercel-link-here]
+**Try the live demo:** https://dental-chatbot-two.vercel.app
 
 ## Key features
 - Answers strictly from the business's own knowledge — no made-up information
