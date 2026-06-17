@@ -1,6 +1,8 @@
 import OpenAI from "openai";
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+// Ensure this route runs on the Node.js runtime and is never statically evaluated at build time.
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 
 const SYSTEM_PROMPT = `You are the virtual assistant for Bright Smile Dental in Victorville, CA.
 Answer only using the facts below. Be warm, concise, and reassuring. If a question
@@ -25,6 +27,8 @@ export async function POST(req: Request) {
         { status: 500 }
       );
     }
+
+    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
     const { messages } = (await req.json()) as { messages: ChatMessage[] };
 
