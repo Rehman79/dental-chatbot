@@ -2,9 +2,7 @@
 
 ## Project title (pick one)
 - AI Customer-Service Chatbot for Small Business Websites
-- GPT-Powered Website Assistant (Live Demo)
-- Custom AI Chat Widget — Answers Customer Questions 24/7
-
+- 
 ## Short description (gallery / one-liner)
 A live, GPT-powered chat widget that answers customer questions instantly —
 hours, pricing, services, booking — trained on a business's own info. Built
@@ -37,21 +35,3 @@ right now rather than just looking at a screenshot.
 
 ## Tech stack
 Next.js (App Router) · OpenAI API (gpt-4o-mini) · TypeScript · deployed on Vercel
-
-## Project Catalog gig pitch (sales copy)
-**I will build a custom AI chatbot for your business website**
-
-Turn your website into a 24/7 assistant. I'll build a custom AI chat widget
-trained on your business's information so it instantly answers customer
-questions about hours, services, pricing, and booking — reducing the calls and
-emails you handle manually.
-
-What you get:
-- A custom AI chatbot trained on your business info
-- A clean, modern, mobile-friendly chat widget
-- Live deployment with a shareable link
-- Easy to update as your business changes
-
-Perfect for clinics, gyms, salons, law firms, agencies, and SaaS products.
-Need it to handle a large document library? I can upgrade it to a full
-searchable knowledge base (RAG).
