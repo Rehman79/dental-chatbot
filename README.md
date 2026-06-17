@@ -2,7 +2,6 @@
 
 ## Project title (pick one)
 - AI Customer-Service Chatbot for Small Business Websites
-- 
 ## Short description (gallery / one-liner)
 A live, GPT-powered chat widget that answers customer questions instantly —
 hours, pricing, services, booking — trained on a business's own info. Built
