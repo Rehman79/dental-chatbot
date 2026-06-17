@@ -2,12 +2,12 @@
 
 ## Project title (pick one)
 - AI Customer-Service Chatbot for Small Business Websites
-## Short description (gallery / one-liner)
+## Short description
 A live, GPT-powered chat widget that answers customer questions instantly —
 hours, pricing, services, booking — trained on a business's own info. Built
 with Next.js and the OpenAI API, deployed live so clients can try it themselves.
 
-## Full description (portfolio body)
+## Full description
 I built a custom AI assistant that drops into any small-business website and
 handles the repetitive questions a front desk gets all day: opening hours,
 services, pricing, insurance, and how to book. Instead of a generic chatbot, it
