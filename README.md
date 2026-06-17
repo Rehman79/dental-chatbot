@@ -3,8 +3,8 @@
 ## Project title
 - AI Customer-Service Chatbot for Small Business Websites
 ## Short description
-A live, GPT-powered chat widget that answers customer questions instantly —
-hours, pricing, services, booking — trained on a business's own info. Built
+A live, GPT-powered chat widget that answers customer questions instantly
+(hours, pricing, services, booking) trained on a business's own info. Built
 with Next.js and the OpenAI API, deployed live so clients can try it themselves.
 
 ## Full description
@@ -12,14 +12,14 @@ I built a custom AI assistant that drops into any small-business website and
 handles the repetitive questions a front desk gets all day: opening hours,
 services, pricing, insurance, and how to book. Instead of a generic chatbot, it
 answers only from the business's own information, so every reply is accurate and
-on-brand — warm, concise, and reassuring.
+on-brand warm, concise, and reassuring.
 
 This demo is set up for a dental clinic, but the same widget works for a gym,
 law firm, salon, SaaS product, or any business with an FAQ. Swapping in a new
 business takes minutes.
 
 Clients get a clean, modern chat experience with suggested questions, typing
-indicators, and instant replies — and it's deployed live, so you can talk to it
+indicators, and instant replies. It's deployed live, so you can talk to it
 right now rather than just looking at a screenshot.
 
 **Try the live demo:** https://dental-chatbot-two.vercel.app
