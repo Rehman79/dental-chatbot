@@ -21,7 +21,7 @@ business takes minutes.
 Clients get a clean, modern chat experience with suggested questions, typing
 indicators, and instant replies. It's deployed live, so you can talk to it
 right now rather than just looking at a screenshot.
-
+v
 **Try the live demo:** https://dental-chatbot-two.vercel.app
 
 ## Key features
